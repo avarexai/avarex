@@ -1,4 +1,4 @@
-# Vision
+# Vision Avarex
 
 Avarex is building the execution layer for a fully automated, permissionless DeFi ecosystem.
 
