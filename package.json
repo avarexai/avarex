@@ -1,0 +1,12 @@
+{
+  "name": "avarex-core",
+  "version": "0.1.0",
+  "description": "Core smart contracts for the Avarex execution protocol.",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.21.0"
+  }
+}
