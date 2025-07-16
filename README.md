@@ -1,6 +1,6 @@
 # Avarex
 
-Autonomous AI Execution Layer for Decentralized Finance
+Autonomous AI Execution Layer for Decentralized Finance.
 
 Avarex is a protocol that automates capital flows across DeFi using on-chain logic and AI-driven agents. It enables permissionless strategy execution — without dashboards, UIs, or centralized triggers.
 
