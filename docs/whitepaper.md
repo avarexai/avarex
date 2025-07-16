@@ -47,7 +47,7 @@ Avarex introduces intent-driven execution:
 
 ## Token Model (Draft)
 
-If launched, $AVX will be used for:
+If launched, $AVAREX will be used for:
 
 - Agent rewards  
 - Governance of logic filters  
